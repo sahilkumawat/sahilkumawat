@@ -5,15 +5,12 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sahilkumawat/">
-    <img src="https://img.shields.io/badge/LinkedIn-Sahil%20Kumawat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-
-  <a href="mailto:sahilk_17@berkeley.edu">
-    <img src="https://img.shields.io/badge/Email-sahilk__17%40berkeley.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  <a href="https://www.linkedin.com/in/sahilkumawat/">LinkedIn</a>
+  •
+  <a href="mailto:sahilk_17@berkeley.edu">Email</a>
 </p>
 
+<div align="center">
 ```text                                                                                          
                                            ----:::---::--:---=                                      
                                        -:::::::::::..:-::::-:-----                                  
@@ -47,6 +44,7 @@
 --:::::---------------------------------------------------------------=============--------==-===   
 -:::::::-----------------------------------------------------------==-==============-----=-=---==   
 ```
+</div>
 
 ## 💻 About Me
 
@@ -65,7 +63,7 @@ Languages
 └── TypeScript
 
 Interests
-├── AI Systems
+├── AI Systems (RAG)
 ├── Backend Engineering
 ├── Distributed Systems
 └── Database Systems
@@ -118,8 +116,3 @@ iOS application connecting avid readers.
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sahilkumawat/">LinkedIn</a>
-  •
-  <a href="mailto:sahilk_17@berkeley.edu">Email</a>
-</p>
