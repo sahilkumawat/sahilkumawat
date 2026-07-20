@@ -47,29 +47,44 @@
 ## 💻 About Me
 
 ```text
-sahilk_17@berkeley
-────────────────────────────────────────────────────────
+sahil@berkeley
+────────────────────────────────────────────
 
-School........UC Berkeley
-Majors.........Applied Math & Computer Science
-OS............macOS
+School      UC Berkeley
+Majors      Applied Mathematics & Computer Science
+OS          macOS
+Editor      VS Code
 
 Languages
 ├── Python
 ├── Java
 ├── Swift
-└── TypeScript
+├── TypeScript
+└── C
 
-Interests
-├── AI Systems (RAG)
-├── Backend Engineering
+Current Focus
+├── AI Systems & Agents
 ├── Distributed Systems
-└── Database Systems
+├── Database Systems
+└── iOS Development
 
 Currently
-└── Software Engineer Intern @ Intuit
-└── AI Researcher @ Sky Computing Lab
-└── President @ Big Data at Berkeley
+├── SWE Intern @ Intuit
+├── Research @ Sky Computing Lab
+└── Reading Designing Data-Intensive Applications
+
+Favorite Technologies
+├── FastAPI
+├── PostgreSQL
+├── Redis
+├── Docker
+├── Kubernetes
+└── Git
+
+Fun Facts
+├── I can beat 2048 in under 3 minutes
+├── I love to play guitar
+└── I can juggle
 ```
 
 ---
