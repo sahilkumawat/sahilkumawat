@@ -71,7 +71,7 @@ Current Focus
 Currently
 ├── SWE Intern @ Intuit
 ├── Research @ Sky Computing Lab
-└── Reading Designing Data-Intensive Applications
+└── President @ Big Data at Berkeley
 
 Favorite Technologies
 ├── FastAPI
